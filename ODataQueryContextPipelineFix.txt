@@ -1,0 +1,1 @@
+ Changing ODataQueryContext constructor to respect the IODataClientQueryPipeline being passed 
